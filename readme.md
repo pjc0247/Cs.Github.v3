@@ -20,6 +20,7 @@ Console.WriteLine(
 
 Remarks
 ----
-* __CsRestClient__ÀÇ real-world »ç¿ë ¿¹Á¦¸¦ º¸¿©ÁÖ±â À§ÇÑ ÇÁ·ÎÁ§Æ®ÀÓ
-  * responseµµ ÁË´Ù stringÀ¸·Î ¿È
-  * ¸ğµç API¸¦ ´Ù ·¡ÇÎÇÑ°Ô ¾Æ´Ô
+* __CsRestClient__ì˜ real-world ì‚¬ìš© ì˜ˆì œë¥¼ ë³´ì—¬ì£¼ê¸° ìœ„í•œ í”„ë¡œì íŠ¸ì„
+  * responseë„ ì£„ë‹¤ stringìœ¼ë¡œ ì˜´
+  * ëª¨ë“  APIë¥¼ ë‹¤ ë˜í•‘í•œê²Œ ì•„ë‹˜
+* [ë”ì¢‹ì€ê±°](https://github.com/octokit/octokit.net)
